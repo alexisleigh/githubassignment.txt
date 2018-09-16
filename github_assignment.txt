@@ -1,0 +1,12 @@
+Github Assignment #1
+
+Alex Allison
+Sept. 16, 2018
+
+I chose a Django-related repository from The Atlantic's space on github. One, because I luuuurve The Atlantic. Two, because I want to learn about how longform magazines like The Atlantic use programming. Three, because every time I see the word "Django" I think "Django Unchained" and want a new association. Four, because the description of the repository is this: "The web framework for perfectionists with deadlines." My epitaph may one day read: "Here lies a perfectionist with deadlines."
+
+After exploring the repository, my thoughts are questions. Why so many files within one repository? Should I think of the files and folders in this repository in the same way I think of files and folders within Google Drive? Why does this feel like I'm looking at a different language? "Backported"? "Syntax:glob"? What do all the suffixes mean? I see that Django uses Python to build web frameworks...what is a web framework? How exactly does this framework help journalists with deadlines, other than allowing them to maybe build a website faster? It looks like the last update was in 2016. Does The Atlantic even use this anymore?
+
+(Also, why are we writing on a text editor instead of a Word Doc? They feel...pretty much the same, except the text editor has boring fonts.) 
+
+Observation: There are a slight few documents within the repository that I understand. Not everything feels like gibberish, and that's a happy feeling.
